@@ -5,21 +5,21 @@ The Recipe Fetch app allows users to browse a list of delicious recipes sourced 
 Here's a quick look at the main features:
 
 1.  **Recipe List View:** The primary screen displaying recipes with their name, cuisine, and thumbnail. It also has search bar.
-![Recipe List View](ReadmeImages/Recipe_list_view.png)
+<img src="ReadmeImages/Recipe_list_view.png" width="250">
 2.  **Recipe Detail View:** The detail screen displaying recipe with the name in navigation bar. It has cover image and quick action buttons like link to video of recipe and text of recipe.
-![Recipe Detail View](ReadmeImages/Recipe_detail_view.png)
- 3.  **Pull-to-Refresh:** Users can easily update the recipe list.
-![Pull-to-refresh](ReadmeImages/Pull_to_refresh.png)
-4.  **Empty State:** A clear message when no recipes are available (if the API returns an empty list).
-![Empty State](ReadmeImages/Recipe_fetch_empty_state.png)
+<img src= "ReadmeImages/Recipe_detail_view.png" width="250">
+3.  **Pull-to-Refresh:** Users can easily update the recipe list.
+ <img src= "ReadmeImages/Pull_to_refresh.png" width="250">
+4.  **Empty State:** A clear message when the API returns an empty list.
+ <img src= "ReadmeImages/Recipe_fetch_empty_state.png" width="250">
 5.  **Error State:** Handles API errors gracefully and informs the user.
-![Error State](ReadmeImages/Recipe_fetch_error_state.png)
+ <img src= "ReadmeImages/Recipe_fetch_error_state.png" width="250">
 6.  **No Internet Connection State:** Detects and informs the user if there's no network connectivity.
-![No Internet Connection State](ReadmeImages/No_internet_connection.png)
+ <img src= "ReadmeImages/No_internet_connection.png" width="250">
 7.  **Search Recipe With List:** Contains the filtered list.
-![Search Recipe With List](ReadmeImages/Recipe_search_with_list.png)
+ <img src= "ReadmeImages/Recipe_search_with_list.png" width="250">
 8.  **Search Recipe With Empty List**
-![Search Recipe With Empty List](ReadmeImages/Recipe_search_with_empty_state.png)
+ <img src= "ReadmeImages/Recipe_search_with_empty_state.png" width="250">
 
 ---
 
